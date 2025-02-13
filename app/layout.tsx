@@ -16,13 +16,7 @@ export const metadata: Metadata = {
   title: "BUDDY DIY - Your Creative Journey",
   description: "Transform your ideas into reality with BUDDY DIY - the innovative platform for DIY enthusiasts",
   icons: {
-    icon: [
-      {
-        url: "/logo.png",
-        type: "image/png",
-      },
-    ],
-    shortcut: ["/logo .png"],
+    icon: "/logo.png",
   },
 };
 
